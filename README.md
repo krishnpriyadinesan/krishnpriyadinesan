@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnpriyadinesan&show_icons=true&locale=en" alt="krishnpriyadinesan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnpriyadinesan&" alt="krishnpriyadinesan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnpriyadinesan&show_icons=true&locale=en" alt="krishnpriyadinesan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnpriyadinesan&" alt="krishnpriyadinesan" /></p>
