@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnpriya Dinesan</h1>
 <h3 align="center">A Machine Learning and Data Science enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRuamEzcTN6b2U3ZGlnNm93MjNkNmUyanE0a2M2bnV2Y3ltOWZkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVZ1M8bVwpaF7MTYNk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnpriyadinesan&label=Profile%20views&color=0e75b6&style=flat" alt="krishnpriyadinesan" /> </p>
 
